@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="left">
+<a href="https://www.linkedin.com/in/daniela-yabe-12ba19b3/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/> </a <a href="https://www.instagram.com/daniyabe/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a> <a href="https://medium.com/@danielayabe"><img src="https://img.shields.io/badge/-Medium-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
+</p>
+
 My name is Daniela Godinho Yabe,
 
 - 🔭 I’m currently working on [Zup Innovation](https://www.zup.com.br/)
@@ -17,8 +21,5 @@ My name is Daniela Godinho Yabe,
 
 
 
-### Let's connect? 🤝
-
-<p align="left">
-<a href="https://www.linkedin.com/in/daniela-yabe-12ba19b3/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/> </a <a href="https://www.instagram.com/daniyabe/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a> <a href="https://medium.com/@danielayabe"><img src="https://img.shields.io/badge/-Medium-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
-</p>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DanielaYabe&show_icons=true&theme=dracula)](https://github.com/DanielaYabe/)
+<br/>
