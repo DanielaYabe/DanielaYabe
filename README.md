@@ -11,7 +11,7 @@ My name is Daniela Godinho Yabe,
 - 📫 How to reach me: [@YabeDaniela](https://twitter.com/YabeDaniela)
 
 ### Languages & Tools 🛠  
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&color=green)&nbsp;![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&color=green)&nbsp;![SQL](https://img.shields.io/badge/-Swift-05122A?style=flat&color=green)&nbsp;  
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&color=green)&nbsp;![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&color=green)&nbsp;![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&color=green)&nbsp;  
 ![Cucumber](https://img.shields.io/badge/-Cucumber-05122A?style=flat&color=orange)&nbsp;![RESTAssured](https://img.shields.io/badge/-RESTAssured-05122A?style=flat&color=orange)&nbsp;![XCUITest](https://img.shields.io/badge/-XCUITest-05122A?style=flat&color=orange)&nbsp;![Appium](https://img.shields.io/badge/-Appium-05122A?style=flat&color=orange)&nbsp;![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&color=orange)&nbsp;![Cucumberish](https://img.shields.io/badge/-Cucumberish-05122A?style=flat&color=orange)&nbsp;  
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&color=gray)&nbsp;  
 
