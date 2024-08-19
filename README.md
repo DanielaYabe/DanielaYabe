@@ -6,7 +6,6 @@
 
 My name is Daniela Godinho Yabe,
 
-- 🔭 I’m currently working on [PagSeguro](http://pagseguro.com/)
 - :heart: Co-founder on [@GuiaDoMochileiroTech](https://github.com/GuiaDoMochileiroTech)
 - 🌱 I’m currently learning XCUITest and Swift
 - 👯 I’m looking to collaborate on Software Quality Community
